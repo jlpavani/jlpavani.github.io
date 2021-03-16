@@ -12,5 +12,5 @@ redirect_from:
 Education
 ======
 * Ph.D (c) in Statistics, Pontifical Catholic University of Chile, 2023 (expected)
-* M.S. in Biostatitics, University of Valencia, 2017
+* M.Sc. in Biostatistics, University of Valencia, 2017
 * B.Sc. in Statistics, University of São Paulo, 2015
