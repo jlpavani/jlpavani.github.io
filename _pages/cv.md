@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D (c) in Statistics, Pontifical Catholic University of Chile, 2023 (expected)
+* M.S. in Biostatitics, University of Valencia, 2017
+* B.Sc. in Statistics, University of São Paulo, 2015
 
 Work experience
 ======
