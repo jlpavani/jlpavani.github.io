@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in the Department of Statistics at the Pontifical Catholic University of Chile. My current research focuses on Bayesian statistics, particularly spatial-temporal and product partition models, statistical modeling/methods in public health and computational methods, particularly Markov Chain Monte Carlo (MCMC) and Integrated Nested Laplace Approximation (INLA).
+I am a PhD candidate in the Department of Statistics at the Pontificia Universidad Católica de Chile. My current research focuses on Bayesian statistics, particularly spatial-temporal and product partition models, statistical modeling/methods in public health and computational methods, particularly Markov chain Monte Carlo (MCMC) and Integrated Nested Laplace Approximation (INLA).
