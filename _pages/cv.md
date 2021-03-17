@@ -11,6 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D (c) in Statistics, Pontifical Catholic University of Chile, 2023 (expected)
-* M.Sc. in Biostatistics, University of Valencia, 2017
+* Ph.D (c) in Statistics, Pontificia Universidad Católica de Chile, 2023 (expected)
+* M.Sc. in Biostatistics, University of València, 2017
+  * Title: Gaussian state-space models for estimating population counts with MCMC and INLA methods.
 * B.Sc. in Statistics, University of São Paulo, 2015
