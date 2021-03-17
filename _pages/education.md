@@ -13,6 +13,7 @@ Education
 ======
 * Ph.D (c) in Statistics, Pontificia Universidad Católica de Chile, 2023 (expected)
   * Title: A flexible approach for spatio-temporal modeling of mosquito-borne diseases.
+  * Advisor: [Fernando Quintana](http://www.mat.uc.cl/~quintana/)
 * M.Sc. in Biostatistics, University of València, 2017
   * Title: Gaussian state-space models for estimating population counts with MCMC and INLA methods.
 * B.Sc. in Statistics, University of São Paulo, 2015
