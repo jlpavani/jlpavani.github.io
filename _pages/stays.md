@@ -5,6 +5,8 @@ permalink: /stays/
 author_profile: true
 ---
 
+{% include base_path %}
+
 Stays
 ======
 * King Abdullah University of Science and Technology
