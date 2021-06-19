@@ -12,8 +12,8 @@ main:
   # - title: "CV"
   #  url: /files/CV.pdf
 
-   - title: "Teaching"
-    url: /teaching/    
+  # - title: "Teaching"
+  #  url: /teaching/    
     
   #- title: "Portfolio"
   #  url: /portfolio/
