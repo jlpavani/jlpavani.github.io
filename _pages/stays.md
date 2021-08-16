@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Stays"
+title: ""
 permalink: /stays/
 author_profile: true
 ---
