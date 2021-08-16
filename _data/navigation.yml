@@ -6,8 +6,8 @@ main:
   - title: "Publications"
     url: /publications/
     
-  #- title: "Stays"
-  #  url: /stays/  
+  - title: "Stays"
+    url: /stays/  
 
   # - title: "CV"
   #  url: /files/CV.pdf
