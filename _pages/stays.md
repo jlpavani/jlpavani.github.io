@@ -9,9 +9,12 @@ author_profile: true
 
 Stays
 ======
+* Universidade Federal de Minas Gerais, Brazil
+  * Collaborator: [Rosangela Loschi](http://www.est.ufmg.br/~loschi/)
+  * Start-End date: 18/04/2022 - To date
 * King Abdullah University of Science and Technology, Saudi Arabia
-  * Collaborators: [Paula Moraga](https://www.paulamoraga.com/)
+  * Collaborator: [Paula Moraga](https://www.paulamoraga.com/)
   * Start-End date: 05/01/2021 - 07/31/2021 (Remote)
 * University of València, Spain
-  * Collaborators: [Carmen Armero](https://www.uv.es/armero/)
+  * Collaborator: [Carmen Armero](https://www.uv.es/armero/)
   * Start-End date: 12/15/2019 - 02/28/2020
