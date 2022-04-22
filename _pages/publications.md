@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-[5] Oliveira, C.M.; Rosa, F.F.; Alvim, R.O.; Mourão-Junior, C.A.; Balcells-Camps, M.; Liu, C.; **Pavani, J.**; Capasso, R.; Dias, F.A.L.; Krieger, J.E.;  Pereira, A.C.: Body mass index is superior to other body adiposity indexes in predicting incident hypertension in a highly admixed sample after 10-year follow-up: The Baependi Heart Study. The Journal of Clinical Hypertension, 2022. [**To Appear**]
+[5] Oliveira, C.M.; Rosa, F.F.; Alvim, R.O.; Mourão-Junior, C.A.; Balcells-Camps, M.; Liu, C.; **Pavani, J.**; Capasso, R.; Dias, F.A.L.; Krieger, J.E.;  Pereira, A.C.: Body mass index is superior to other body adiposity indexes in predicting incident hypertension in a highly admixed sample after 10-year follow-up: The Baependi Heart Study. *The Journal of Clinical Hypertension*, 2022. [**To Appear**]
 
 [4] **Pavani, J.**; Moraga, P.: A Bayesian joint spatio-temporal model for multiple mosquito-borne diseases. Methodological and Computational Contributions on Bayesian Statistics: BAYSM 2021, Springer Proceedings in Mathematics & Statistics, 2022. [**To Appear**]
 
