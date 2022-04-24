@@ -11,7 +11,7 @@ author_profile: true
 
 [3] Oliveira, C.M.; **Pavani, J.**; Krieger, J.E.; Alvim, R.O.; Balcells-Camps, M.; Mourão-Junior, C.A.; Pereira, A.C.; Liu, C.: Triglyceride glucose index as a tool to motivate early lifestyle modification in young adults at diabetes risk: The Baependi Heart Study. *Preventive Medicine Reports*, 20, 1-4, 2020. [[DOI](https://doi.org/10.1016/j.pmedr.2020.101172)]
 
-[2] **Pavani, J.**; Alvares, D.: Statistically validating patient self-reporting questionnaires in medicine, SAGE Research Methods: Medicine & Health Cases, *SAGE Publishing*, 1-19, 2020. [[DOI](https://dx.doi.org/10.4135/9781529726763)]
+[2] **Pavani, J.**; Alvares, D.: Statistically validating patient self-reporting questionnaires in medicine, *SAGE Research Methods Cases: Medicine & Health*, 1-19, 2020. [[DOI](https://dx.doi.org/10.4135/9781529726763)]
 
 [1] Oliveira, C.M.; **Pavani, J.**; Krieger, J.E.; Alvim, R.O.; Mourão-Junior, C.A.; Pereira, A.C.: Body adiposity index accessing the type 2 diabetes mellitus development risk: The Baependi Heart Study. *Diabetology & Metabolic Syndrome*, 11(76), 76-80, 2019. [[DOI](https://doi.org/10.1186/s13098-019-0467-1)]
 
