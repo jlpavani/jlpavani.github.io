@@ -9,7 +9,7 @@ author_profile: true
 
 Stays
 ======
-* Universidade Federal de Minas Gerais, Brazil
+* Federal University of Minas Gerais, Brazil
   * Collaborator: [Rosangela Loschi](http://www.est.ufmg.br/~loschi/)
   * Start-End date: 18/04/2022 - To date
 * King Abdullah University of Science and Technology, Saudi Arabia
