@@ -5,7 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
+<div class=text-justify> your-text-here 
 [6] Oliveira, C.M.; **Pavani, J.**; Liu, C.; Balcells-Camps, M.; Capasso, R.; Alvim, R.O.; Mourão-Junior, C.A.; Krieger, J.E.; Pereira, A.C.: Comparing different metabolic indexes to predict type 2 diabetes mellitus in a five years follow-up cohort: The Baependi Heart Study. *PLoS One*, 2022. [**To Appear**]
+</div>
 
 [5] Oliveira, C.M.; Rosa, F.F.; Alvim, R.O.; Mourão-Junior, C.A.; Balcells-Camps, M.; Liu, C.; **Pavani, J.**; Capasso, R.; Dias, F.A.L.; Krieger, J.E.;  Pereira, A.C.: Body mass index is superior to other body adiposity indexes in predicting incident hypertension in a highly admixed sample after 10-year follow-up: The Baependi Heart Study. *The Journal of Clinical Hypertension*, 2022. [**To Appear**]
 
