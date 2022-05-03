@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<div class=text-justify> your-text-here 
+<div class=text-justify>
 [6] Oliveira, C.M.; **Pavani, J.**; Liu, C.; Balcells-Camps, M.; Capasso, R.; Alvim, R.O.; Mourão-Junior, C.A.; Krieger, J.E.; Pereira, A.C.: Comparing different metabolic indexes to predict type 2 diabetes mellitus in a five years follow-up cohort: The Baependi Heart Study. *PLoS One*, 2022. [**To Appear**]
 </div>
 
