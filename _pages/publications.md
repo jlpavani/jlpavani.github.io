@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+[7] **Pavani, J.**; Cerda, J.; Gutierrez, L.; Varas, I.; Gutierrez, I.; Jofre, L.; Ortiz, O.; Arriagada , G.: Factors associated to the duration of COVID-19 lockdowns in Chile. *Scientific Reports*, 2022. [**To Appear**]
+
 [6] Oliveira, C.M.; **Pavani, J.**; Liu, C.; Balcells-Camps, M.; Capasso, R.; Alvim, R.O.; Mourão-Junior, C.A.; Krieger, J.E.; Pereira, A.C.: Comparing different metabolic indexes to predict type 2 diabetes mellitus in a five years follow-up cohort: The Baependi Heart Study. *PLoS One*, 2022. [**To Appear**]
 
 [5] **Pavani, J.**; Moraga, P.: A Bayesian joint spatio-temporal model for multiple mosquito-borne diseases. Methodological and Computational Contributions on Bayesian Statistics: BAYSM 2021, *Springer Proceedings in Mathematics & Statistics*, 2022. [**To Appear**]
