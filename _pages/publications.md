@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-[7] **Pavani, J.**; Cerda, J.; Gutiérrez, L.; Varas, I.; Gutiérrez, I.; Jofre, L.; Ortiz, O.; Arriagada, G.: Factors associated to the duration of COVID-19 lockdowns in Chile. *Scientific Reports*, 2022. [**To Appear**]
+[7] **Pavani, J.**; Cerda, J.; Gutiérrez, L.; Varas, I.; Gutiérrez, I.; Jofré, L.; Ortiz, O.; Arriagada, G.: Factors associated to the duration of COVID-19 lockdowns in Chile. *Scientific Reports*, 2022. [**To Appear**]
 
 [6] **Pavani, J.**; Moraga, P.: A Bayesian joint spatio-temporal model for multiple mosquito-borne diseases. Methodological and Computational Contributions on Bayesian Statistics: BAYSM 2021, *Springer Proceedings in Mathematics & Statistics*, 2022. [**To Appear**]
 
