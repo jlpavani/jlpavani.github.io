@@ -5,9 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-[7] **Pavani, J.**; Cerda, J.; Gutiérrez, L.; Varas, I.; Gutiérrez, I.; Jofré, L.; Ortiz, O.; Arriagada, G.: Factors associated to the duration of COVID-19 lockdowns in Chile. *Scientific Reports*, 2022. [**To Appear**]
+[7] **Pavani, J.**; Moraga, P.: A Bayesian joint spatio-temporal model for multiple mosquito-borne diseases. Methodological and Computational Contributions on Bayesian Statistics: BAYSM 2021, *Springer Proceedings in Mathematics & Statistics*, 2022. [**To Appear**]
 
-[6] **Pavani, J.**; Moraga, P.: A Bayesian joint spatio-temporal model for multiple mosquito-borne diseases. Methodological and Computational Contributions on Bayesian Statistics: BAYSM 2021, *Springer Proceedings in Mathematics & Statistics*, 2022. [**To Appear**]
+[6] **Pavani, J.**; Cerda, J.; Gutiérrez, L.; Varas, I.; Gutiérrez, I.; Jofré, L.; Ortiz, O.; Arriagada, G.: Factors associated to the duration of COVID-19 lockdowns in Chile. *Scientific Reports*, 12(9516), 1-7, 2022. [[DOI](https://doi.org/10.1038/s41598-022-13743-8)]
 
 [5] Oliveira, C.M.; **Pavani, J.**; Liu, C.; Balcells-Camps, M.; Capasso, R.; Alvim, R.O.; Mourão-Junior, C.A.; Krieger, J.E.; Pereira, A.C.: Comparing different metabolic indexes to predict type 2 diabetes mellitus in a five years follow-up cohort: The Baependi Heart Study. *PLoS One*, 17(6):e026772, 2022. [[DOI](https://doi.org/10.1371/journal.pone.0267723)]
 
