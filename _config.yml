@@ -31,7 +31,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : "dark" # "light" (default), "dark"
+    colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -86,7 +86,7 @@ author:
   avatar           : "me.jpeg"
   bio              : "Ph.D.(c) in Statistics"
   location         : 
-  employer         : "UC - Chile" 
+  employer         : "Santiago - Chile" 
   pubmed           : 
   googlescholar    : 
   email            : jlpavani@uc.cl
