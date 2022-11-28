@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-[7] **Pavani, J.**; Moraga, P.: A Bayesian joint spatio-temporal model for multiple mosquito-borne diseases. New Frontiers in Bayesian Statistics: BAYSM 2021, *Springer Proceedings in Mathematics & Statistics*, 405, 2022. [**To Appear**]
+[7] **Pavani, J.**; Moraga, P.: A Bayesian joint spatio-temporal model for multiple mosquito-borne diseases. New Frontiers in Bayesian Statistics: BAYSM 2021, *Springer Proceedings in Mathematics & Statistics*, 405, 69-77, 2022. [[DOI](https://doi.org/10.1007/978-3-031-16427-9_7)]
 
 [6] **Pavani, J.**; Cerda, J.; Gutiérrez, L.; Varas, I.; Gutiérrez, I.; Jofré, L.; Ortiz, O.; Arriagada, G.: Factors associated to the duration of COVID-19 lockdowns in Chile. *Scientific Reports*, 12(9516), 1-7, 2022. [[DOI](https://doi.org/10.1038/s41598-022-13743-8)]
 
