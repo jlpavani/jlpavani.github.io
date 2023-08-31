@@ -58,8 +58,8 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter                  : https://twitter.com/jespavani
-  username               : @jespavani
+twitter                  : 
+  username               : 
 facebook:
   username               :
   app_id                 :
