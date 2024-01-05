@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. (c) in Statistics, Pontificia Universidad Católica de Chile, 2023 (expected)
+* Ph.D. (c) in Statistics, Pontificia Universidad Católica de Chile, 2024 (expected)
   * Title: A flexible approach for spatio-temporal modeling of mosquito-borne diseases.
   * Advisor: [Fernando Quintana](http://www.mat.uc.cl/~quintana/)
 * M.Sc. in Biostatistics, University of València, 2017
