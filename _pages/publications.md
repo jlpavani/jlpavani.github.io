@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<font size = "4"> **Submitted to publication** </font>
+# **Submitted to publication**
 
 [9] **Pavani, J.**; Quintana, F.: A Bayesian multivariate model with temporal dependence on random partition of areal data. [[Preprint](https://arxiv.org/abs/2401.08303)]
 
