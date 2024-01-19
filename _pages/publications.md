@@ -5,11 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-<font size = "4"> Submitted to publication </font>
+<font size = "4"> **Submitted to publication** </font>
 
 [9] **Pavani, J.**; Quintana, F.: A Bayesian multivariate model with temporal dependence on random partition of areal data. [[Preprint](https://arxiv.org/abs/2401.08303)]
 
-<font size = "4"> Published </font>
+<font size = "4"> **Published** </font>
 
 [8] **Pavani, J.**; Bastos, L.S.; Moraga, P.: Joint spatial modeling of the risks of co-circulating mosquito-borne diseases in Ceará, Brazil. *Spatial and Spatio-temporal Epidemiology*, 47, 100616, 2023. [[DOI](https://doi.org/10.1016/j.sste.2023.100616)]
 
