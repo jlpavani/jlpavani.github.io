@@ -84,8 +84,8 @@ analytics:
 author:
   name             : "Jessica Pavani"
   avatar           : "me.jpeg"
-  bio              : "Ph.D. in Statistics"
-  location         : "UC - Chile" 
+  bio              : 
+  location         : 
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=981kGBAAAAAJ"
