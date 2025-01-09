@@ -32,7 +32,7 @@ author_profile: true
 [1] Oliveira, C.M.; **Pavani, J.**; Krieger, J.E.; Alvim, R.O.; Mourão-Junior, C.A.; Pereira, A.C.: Body adiposity index accessing the type 2 diabetes mellitus development risk: The Baependi Heart Study. *Diabetology & Metabolic Syndrome*, 11(76), 76-80, 2019. [[DOI](https://doi.org/10.1186/s13098-019-0467-1)]
 
 {% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+  You can also find my articles on <u><a href="{{[author.googlescholar](https://scholar.google.com/citations?hl=pt-BR&user=981kGBAAAAAJ&view_op=list_works&sortby=pubdate)}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
 {% include base_path %}
