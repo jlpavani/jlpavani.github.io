@@ -9,11 +9,9 @@ author_profile: true
 
 [10] **Pavani, J.**; Loschi, R. H.; Quintana, F. A.: Modeling temporal dependence in a sequence of spatial random partitions driven by spanning trees: an application to mosquito-borne diseases. [[Preprint](https://arxiv.org/abs/2501.04601)]
 
-### **To appear**
-
-[9] **Pavani, J.**; Quintana, F. A.: A Bayesian multivariate model with temporal dependence on random partition of areal data. To appear in *Statistics in Medicine* [[Preprint](https://arxiv.org/abs/2401.08303)]
-
 ### **Published**
+
+[9] **Pavani, J.**; Quintana, F. A.: A Bayesian multivariate model with temporal dependence on random partition of areal data. *Statistics in Medicine*, 44(3-4), e10325, 2024. [[DOI](http://dx.doi.org/10.1002/sim.10325)]
 
 [8] **Pavani, J.**; Bastos, L.S.; Moraga, P.: Joint spatial modeling of the risks of co-circulating mosquito-borne diseases in Ceará, Brazil. *Spatial and Spatio-temporal Epidemiology*, 47, 100616, 2023. [[DOI](https://doi.org/10.1016/j.sste.2023.100616)]
 
@@ -21,7 +19,7 @@ author_profile: true
 
 [6] **Pavani, J.**; Cerda, J.; Gutiérrez, L.; Varas, I.; Gutiérrez, I.; Jofré, L.; Ortiz, O.; Arriagada, G.: Factors associated to the duration of COVID-19 lockdowns in Chile. *Scientific Reports*, 12(9516), 1-7, 2022. [[DOI](https://doi.org/10.1038/s41598-022-13743-8)]
 
-[5] Oliveira, C.M.; **Pavani, J.**; Liu, C.; Balcells-Camps, M.; Capasso, R.; Alvim, R.O.; Mourão-Junior, C.A.; Krieger, J.E.; Pereira, A.C.: Comparing different metabolic indexes to predict type 2 diabetes mellitus in a five years follow-up cohort: The Baependi Heart Study. *PLoS One*, 17(6):e026772, 2022. [[DOI](https://doi.org/10.1371/journal.pone.0267723)]
+[5] Oliveira, C.M.; **Pavani, J.**; Liu, C.; Balcells-Camps, M.; Capasso, R.; Alvim, R.O.; Mourão-Junior, C.A.; Krieger, J.E.; Pereira, A.C.: Comparing different metabolic indexes to predict type 2 diabetes mellitus in a five years follow-up cohort: The Baependi Heart Study. *PLoS One*, 17(6), e026772, 2022. [[DOI](https://doi.org/10.1371/journal.pone.0267723)]
 
 [4] Oliveira, C.M.; Rosa, F.F.; Alvim, R.O.; Mourão-Junior, C.A.; Balcells-Camps, M.; Liu, C.; **Pavani, J.**; Capasso, R.; Dias, F.A.L.; Krieger, J.E.;  Pereira, A.C.: Body mass index is superior to other body adiposity indexes in predicting incident hypertension in a highly admixed sample after 10-year follow-up: The Baependi Heart Study. *The Journal of Clinical Hypertension*, 24(6), 731-737, 2022. [[DOI](https://doi.org/10.1111/jch.14480)]
 
