@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "Research visits"
 permalink: /stays/
 author_profile: true
 ---
