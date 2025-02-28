@@ -7,7 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-Research visits
 ======
 * Federal University of Minas Gerais, Brazil
   * Collaborator: [Rosangela Loschi](http://www.est.ufmg.br/~loschi/)
