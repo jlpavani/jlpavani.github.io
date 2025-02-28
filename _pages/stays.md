@@ -7,7 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-======
 * Federal University of Minas Gerais, Brazil
   * Collaborator: [Rosangela Loschi](http://www.est.ufmg.br/~loschi/)
   * Start-End date: 04/18/2022 - 09/07/2022
