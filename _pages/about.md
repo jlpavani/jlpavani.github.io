@@ -8,4 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Research Fellow in the Department of Mathematics & Statistics at the [University of Calgary](https://ucalgary.ca/) under the supervision of [Rob Deardon](https://robdeardon.github.io/) and [Alexandra M. Schmidt](https://alex-schmidt.research.mcgill.ca/). Specializing in spatial and spatio-temporal modeling within the Bayesian framework, I have concentrated my recent efforts on random partition models. Currently, my research focuses on infectious disease modeling. Additionally, I am also deeply interested in statistical modeling and methods in public health in general, as well as advanced computational methods. 
+I am a Postdoctoral Research Fellow in the Department of Mathematics and Statistics at the [University of Calgary](https://ucalgary.ca/) , where I have been working on the development of complex behavioral change in epidemic models alongside [Rob Deardon](https://robdeardon.github.io/) and [Alexandra M. Schmidt](https://alex-schmidt.research.mcgill.ca/). My research interests focus on Bayesian inference (both parametric and nonparametric), with an emphasis on modeling and computational techniques for complex or correlated data, mostly in the contexts of infectious disease modeling and spatio-temporal disease mapping.
+
+**Research interests**: Bayesian inference; Biostatistics; Clustering; Computational statistics; Random partition models; Spatio-temporal models.
