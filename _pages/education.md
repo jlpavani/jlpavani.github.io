@@ -22,5 +22,3 @@ Education
   * Advisor: [Dorival Leão](https://www.estatcamp.com/equipe-estatcamp)
   * Title: Determination of the laser-induced fluorescence spectrum descriptors for the classification of citrus Huanglongbing disease.
   * Advisor: [Paulino Ribeiro Villas Boas](https://www.embrapa.br/equipe/-/empregado/349077/paulino-ribeiro-villas-boas)
- 
-    <img src="me.jpg" alt="Girl in a jacket" width="500" height="600">
