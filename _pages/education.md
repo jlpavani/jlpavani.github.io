@@ -25,7 +25,7 @@ Education
  
     <div class="two-col">
     <div id="first-col" class="column">
-        <img src="http://placekitten.com/g/200/300" />
+        <img src="me.jpg" />
     </div>
     <div id="second-col" class="column">
         <p>Duis laoreet sagittis ipsum, volutpat interdum dui gravida ac. Integer mattis facilisis eleifend. Sed ullamcorper leo sit amet enim egestas sagittis. Fusce gravida accumsan placerat. Ut in ultrices mi, ut posuere sem. Vivamus bibendum mollis lectus vitae scelerisque. Ut faucibus tortor leo, nec ullamcorper erat cursus nec.</p>
