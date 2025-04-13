@@ -23,12 +23,4 @@ Education
   * Title: Determination of the laser-induced fluorescence spectrum descriptors for the classification of citrus Huanglongbing disease.
   * Advisor: [Paulino Ribeiro Villas Boas](https://www.embrapa.br/equipe/-/empregado/349077/paulino-ribeiro-villas-boas)
  
-    <div class="two-col">
-    <div id="first-col" class="column">
-        <img src="me.jpg" />
-    </div>
-    <div id="second-col" class="column">
-        <p>Duis laoreet sagittis ipsum, volutpat interdum dui gravida ac. Integer mattis facilisis eleifend. Sed ullamcorper leo sit amet enim egestas sagittis. Fusce gravida accumsan placerat. Ut in ultrices mi, ut posuere sem. Vivamus bibendum mollis lectus vitae scelerisque. Ut faucibus tortor leo, nec ullamcorper erat cursus nec.</p>
-        <p><a href="#">Kittens</a></p>
-    </div>
-</div>
+    <img src="me.jpg" alt="Girl in a jacket" width="500" height="600">
