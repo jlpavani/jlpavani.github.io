@@ -11,6 +11,9 @@ redirect_from:
 
 Education
 ======
+
+<img align="right" width="100" src="https://www.rd.com/wp-content/uploads/2018/02/25_Hilarious-Photos-that-Will-Get-You-Through-the-Week_280228817_Doty911.jpg" />
+
 * Ph.D. in Statistics, Pontificia Universidad Católica de Chile, 2024
   * Title: Flexible spatio-temporal strategies for modeling mosquito-borne diseases.
   * Advisors: [Fernando Quintana](http://www.mat.uc.cl/~quintana/) and [Rosangela Loschi](https://www.est.ufmg.br/~loschi/).
@@ -22,9 +25,3 @@ Education
   * Advisor: [Dorival Leão](https://www.estatcamp.com/equipe-estatcamp)
   * Title: Determination of the laser-induced fluorescence spectrum descriptors for the classification of citrus Huanglongbing disease.
   * Advisor: [Paulino Ribeiro Villas Boas](https://www.embrapa.br/equipe/-/empregado/349077/paulino-ribeiro-villas-boas)
-
-<img align="right" width="200" src="https://www.rd.com/wp-content/uploads/2018/02/25_Hilarious-Photos-that-Will-Get-You-Through-the-Week_280228817_Doty911.jpg" />
-
-# Headline 
-
-Some text
