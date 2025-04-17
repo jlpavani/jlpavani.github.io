@@ -12,18 +12,18 @@ redirect_from:
 Education
 ======
 
-<br/><img align="right" width="100" src='/images/UClogo.jpg'>
+<br/><img align="right" width="80" src='/images/UClogo.jpg'>
 * Ph.D. in Statistics, Pontificia Universidad Católica de Chile, 2024
   * Title: Flexible spatio-temporal strategies for modeling mosquito-borne diseases.
   * Advisors: [Fernando Quintana](http://www.mat.uc.cl/~quintana/) and [Rosangela Loschi](https://www.est.ufmg.br/~loschi/).
   
 * M.Sc. in Biostatistics, University of València, 2017
- <br/><img align="right" width="100" src='/images/UVlogo.png'>
+ <br/><img align="right" width="80" src='/images/UVlogo.png'>
   * Title: Gaussian state-space models for estimating population counts with MCMC and INLA methods.
   * Advisors: [Carmen Armero](https://www.uv.es/armero/) and [David Conesa](https://www.uv.es/conesa/)
  
 * B.Sc. in Statistics, University of São Paulo, 2015
- <br/><img align="right" width="100" src='/images/USPlogo3.png'>
+ <br/><img align="right" width="80" src='/images/USPlogo3.png'>
   * Title: Application of mixed models with cross-over effects in experiments with animals.
   * Advisor: [Dorival Leão](https://www.estatcamp.com/equipe-estatcamp)
   * Title: Determination of the laser-induced fluorescence spectrum descriptors for the classification of citrus Huanglongbing disease.
