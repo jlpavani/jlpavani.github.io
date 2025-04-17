@@ -22,3 +22,12 @@ Education
   * Advisor: [Dorival Leão](https://www.estatcamp.com/equipe-estatcamp)
   * Title: Determination of the laser-induced fluorescence spectrum descriptors for the classification of citrus Huanglongbing disease.
   * Advisor: [Paulino Ribeiro Villas Boas](https://www.embrapa.br/equipe/-/empregado/349077/paulino-ribeiro-villas-boas)
+
+<div class="image-txt-container">
+  <img src="https://images4.alphacoders.com/206/thumb-350-20658.jpg">
+  <h2>
+    * Ph.D. in Statistics, Pontificia Universidad Católica de Chile, 2024
+    * Title: Flexible spatio-temporal strategies for modeling mosquito-borne diseases.
+    * Advisors: [Fernando Quintana](http://www.mat.uc.cl/~quintana/) and [Rosangela Loschi](https://www.est.ufmg.br/~loschi/).
+  </h2>
+</div>
