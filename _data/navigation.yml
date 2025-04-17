@@ -2,12 +2,12 @@
 main:
   - title: "Education"
     url: /education/
+
+  - title: "Experience"
+    url: /stays/  
     
   - title: "Publications"
     url: /publications/
-    
-  - title: "Research visits"
-    url: /stays/  
 
   - title: "CV"
     url: /files/CV.pdf
