@@ -24,7 +24,7 @@ Education
   * Advisor: [Paulino Ribeiro Villas Boas](https://www.embrapa.br/equipe/-/empregado/349077/paulino-ribeiro-villas-boas)
 
 <div class="image-txt-container">
-  <img src="images/me.jpeg">
+  <img src="https://github.com/jlpavani/jlpavani.github.io/blob/master/images/UClogo.jpg">
   <h2>
     * Ph.D. in Statistics, Pontificia Universidad Católica de Chile, 2024
     * Title: Flexible spatio-temporal strategies for modeling mosquito-borne diseases.
