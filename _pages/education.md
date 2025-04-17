@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 
-<br/><img src='/images/UClogo.jpg'>
+<br/><img align="right" width="100" src='/images/UClogo.jpg'>
 
 * Ph.D. in Statistics, Pontificia Universidad Católica de Chile, 2024
   * Title: Flexible spatio-temporal strategies for modeling mosquito-borne diseases.
