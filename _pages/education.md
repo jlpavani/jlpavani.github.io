@@ -11,14 +11,13 @@ redirect_from:
 
 Education
 ======
-
-* Ph.D. in Statistics, Pontificia Universidad Católica de Chile, 2024
 <br/><img align="right" width="80" src='/images/UClogo.jpg'>
+* Ph.D. in Statistics, Pontificia Universidad Católica de Chile, 2024
   * Title: Flexible spatio-temporal strategies for modeling mosquito-borne diseases.
   * Advisors: [Fernando Quintana](http://www.mat.uc.cl/~quintana/) and [Rosangela Loschi](https://www.est.ufmg.br/~loschi/).
 
-* M.Sc. in Biostatistics, University of València, 2017
 <br/><img align="right" width="85" src='/images/UVlogo.png'>
+* M.Sc. in Biostatistics, University of València, 2017
   * Title: Gaussian state-space models for estimating population counts with MCMC and INLA methods.
   * Advisors: [Carmen Armero](https://www.uv.es/armero/) and [David Conesa](https://www.uv.es/conesa/)
  
