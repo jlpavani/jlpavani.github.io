@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 
-<img align="right" width="100" src="https://www.rd.com/wp-content/uploads/2018/02/25_Hilarious-Photos-that-Will-Get-You-Through-the-Week_280228817_Doty911.jpg" />
+<img align="right" width="100" src="images/UClogo.jpg" />
 
 * Ph.D. in Statistics, Pontificia Universidad Católica de Chile, 2024
   * Title: Flexible spatio-temporal strategies for modeling mosquito-borne diseases.
