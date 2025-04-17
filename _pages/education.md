@@ -33,5 +33,9 @@ Education
 </div>
 
 <div style="float:left"><img src="https://github.com/jlpavani/jlpavani.github.io/blob/master/images/UClogo.jpg"></div>
-<div style="float:right">text</div>
+<div style="float:right">
+    * Ph.D. in Statistics, Pontificia Universidad Católica de Chile, 2024
+    * Title: Flexible spatio-temporal strategies for modeling mosquito-borne diseases.
+    * Advisors: [Fernando Quintana](http://www.mat.uc.cl/~quintana/) and [Rosangela Loschi](https://www.est.ufmg.br/~loschi/). 
+</div>
 <div style="clear:both"/>
