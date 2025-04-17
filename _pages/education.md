@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 
-<img align="right" width="100" src="images/UClogo.jpg" />
+<img align="right" width="100" src="https://github.com/jlpavani/jlpavani.github.io/blob/master/images/UClogo.jpg" />
 
 * Ph.D. in Statistics, Pontificia Universidad Católica de Chile, 2024
   * Title: Flexible spatio-temporal strategies for modeling mosquito-borne diseases.
