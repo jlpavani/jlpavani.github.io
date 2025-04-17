@@ -23,7 +23,7 @@ Education
   * Advisors: [Carmen Armero](https://www.uv.es/armero/) and [David Conesa](https://www.uv.es/conesa/)
  
 * B.Sc. in Statistics, University of São Paulo, 2015
- <br/><img align="right" width="100" src='/images/USPlogo2.png'>
+ <br/><img align="right" width="100" src='/images/USPlogo3.png'>
   * Title: Application of mixed models with cross-over effects in experiments with animals.
   * Advisor: [Dorival Leão](https://www.estatcamp.com/equipe-estatcamp)
   * Title: Determination of the laser-induced fluorescence spectrum descriptors for the classification of citrus Huanglongbing disease.
