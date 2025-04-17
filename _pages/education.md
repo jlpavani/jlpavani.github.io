@@ -23,6 +23,9 @@ Education
 * M.Sc. in Biostatistics, University of València, 2017
   * Title: Gaussian state-space models for estimating population counts with MCMC and INLA methods.
   * Advisors: [Carmen Armero](https://www.uv.es/armero/) and [David Conesa](https://www.uv.es/conesa/)
+ 
+ <br/><img align="right" width="100" src='/images/USPlogo.png'>
+ 
 * B.Sc. in Statistics, University of São Paulo, 2015
   * Title: Application of mixed models with cross-over effects in experiments with animals.
   * Advisor: [Dorival Leão](https://www.estatcamp.com/equipe-estatcamp)
