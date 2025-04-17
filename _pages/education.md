@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 
-<br/><img align="right" width="80" src='/images/UClogo.jpg'>
 * Ph.D. in Statistics, Pontificia Universidad Católica de Chile, 2024
+<br/><img align="right" width="80" src='/images/UClogo.jpg'>
   * Title: Flexible spatio-temporal strategies for modeling mosquito-borne diseases.
   * Advisors: [Fernando Quintana](http://www.mat.uc.cl/~quintana/) and [Rosangela Loschi](https://www.est.ufmg.br/~loschi/).
 
