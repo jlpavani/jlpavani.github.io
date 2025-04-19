@@ -8,13 +8,11 @@ author_profile: true
 {% include base_path %}
 
 Positions
-======
 
 * Postdoctoral Research Fellow, University of Calgary, 2025
   * Supervisors: [Rob Deardon](https://robdeardon.github.io/) and [Alexandra M. Schmidt](https://alex-schmidt.research.mcgill.ca/).
 
 Research visits
-======
 
 * Federal University of Minas Gerais, Brazil
   * Collaborator: [Rosangela Loschi](http://www.est.ufmg.br/~loschi/)
