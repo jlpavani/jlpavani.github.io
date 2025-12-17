@@ -10,7 +10,7 @@ author_profile: true
 ### **Positions**
 
 * Postdoctoral Research Fellow, University of Calgary, Canada
-  * Supervisors: [Rob Deardon](https://robdeardon.github.io/) and [Alexandra M. Schmidt](https://alex-schmidt.research.mcgill.ca/)
+  * Supervisors: [Rob Deardon](https://robdeardon.github.io/) and [Alexandra Schmidt](https://alex-schmidt.research.mcgill.ca/)
   * Start date: 01/29/2025
 
 ### **Research visits**
