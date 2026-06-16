@@ -5,7 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-<!-- ### **Submitted to publication** -->
+### **Submitted to publication** 
+
+[11] **Pavani, J.**; Deardon, R.; Schmidt, A. M.: Heterogeneous behavioral mechanisms in epidemiological models. [[Preprint](https://arxiv.org/pdf/2606.14902)]
 
 ### **Published**
 
