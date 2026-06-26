@@ -11,7 +11,7 @@ author_profile: true
 
 ### **Published**
 
-[10] **Pavani, J.**; Loschi, R. H.; Quintana, F. A.: Modeling temporal dependence in a sequence of spatial random partitions driven by spanning trees: an application to mosquito-borne diseases. To appear in *Annals of Applied Statistics* [[Preprint](https://arxiv.org/abs/2501.04601)]
+[10] **Pavani, J.**; Loschi, R. H.; Quintana, F. A.: Modeling temporal dependence in a sequence of spatial random partitions driven by spanning trees: an application to mosquito-borne diseases. *Annals of Applied Statistics*, 20(2), 1388-1408, 2026. [[DOI](https://doi.org/10.1214/26-AOAS2172)]
 
 [9] **Pavani, J.**; Quintana, F. A.: A Bayesian multivariate model with temporal dependence on random partition of areal data. *Statistics in Medicine*, 44(3-4), e10325, 2025. [[DOI](http://dx.doi.org/10.1002/sim.10325)]
 
