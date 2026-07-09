@@ -7,8 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
-<-- ### **Office Hours Spring 2026**
-Monday 4 - 5 pm, MS 462 -->
+<!--- ### **Office Hours Spring 2026**
+Monday 4 - 5 pm, MS 462 --->
 
 ### **Courses**
 
