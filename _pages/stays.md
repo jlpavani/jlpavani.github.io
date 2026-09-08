@@ -9,9 +9,13 @@ author_profile: true
 
 ### **Positions**
 
+* Postdoctoral Research Fellow, King Abdullah University of Science and Technology (KAUST), Saudi Arabia
+  * Supervisors: [Paula Moraga](https://www.paulamoraga.com/)
+  * Start–end date: 10/01/2026–present
+
 * Postdoctoral Research Fellow, University of Calgary, Canada
   * Supervisors: [Rob Deardon](https://robdeardon.github.io/) and [Alexandra Schmidt](https://alex-schmidt.research.mcgill.ca/)
-  * Start–end date: 01/29/2025–present
+  * Start–end date: 01/29/2025–07/31/2026
  
 * Sessional Instructor, University of Calgary, Canada
   * Start-end date: Fall 2025, Winter 2026, Spring 2026
