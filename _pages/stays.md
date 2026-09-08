@@ -10,7 +10,7 @@ author_profile: true
 ### **Positions**
 
 * Postdoctoral Research Fellow, King Abdullah University of Science and Technology (KAUST), Saudi Arabia
-  * Supervisors: [Paula Moraga](https://www.paulamoraga.com/)
+  * Supervisor: [Paula Moraga](https://www.paulamoraga.com/)
   * Start–end date: 10/01/2026–present
 
 * Postdoctoral Research Fellow, University of Calgary, Canada
