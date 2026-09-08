@@ -14,7 +14,7 @@ author_profile: true
   * Start–end date: 01/29/2025–present
  
 * Sessional Instructor, University of Calgary, Canada
-  * Start-end date: Fall 2025, Winter 2026, Spring 2006
+  * Start-end date: Fall 2025, Winter 2026, Spring 2026
 
 ### **Research visits**
 
